@@ -1,2 +1,4 @@
-package com.example.gather.room.infrastructure.out;public class RoomRepository {
+package com.example.gather.room.infrastructure.out;
+
+public interface RoomRepository {
 }
